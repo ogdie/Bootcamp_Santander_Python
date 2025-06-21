@@ -102,4 +102,4 @@ Consulte a documentação Swagger para detalhes e testes.
 
 ## Autor
 
-Seu nome aqui
+Diego Menezes Monteiro
